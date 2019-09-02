@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+graphics.so
+graphics.dylib
+graphics.dll
+graphics.a
+graphics.lib
+graphics-test-*
+*.exe
+*.o
+*.obj
+*.lst

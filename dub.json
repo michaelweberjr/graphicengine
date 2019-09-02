@@ -1,0 +1,13 @@
+{
+	"name": "graphics",
+	"authors": [
+		"Michael Weber"
+	],
+	"dependencies": {
+		"derelict-sdl2": "~>2.1.4",
+		"derelict-gl3": "~>1.0.23"
+	},
+	"description": "Book tutorials",
+	"copyright": "Copyright © 2017, Michael Weber",
+	"license": "proprietary"
+}
